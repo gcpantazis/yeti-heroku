@@ -1,0 +1,11 @@
+{
+  "name": "my-node-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "yeti": "~0.2.23"
+  },
+  "engines": {
+    "node": "~0.10.13"
+  }
+}
